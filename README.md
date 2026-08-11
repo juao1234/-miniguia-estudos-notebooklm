@@ -14,9 +14,78 @@ Engenharia de Prompts com IA: Testar e documentar quais tipos de pergunta extrae
 
 ## Curadoria de Fontes
 
- [Inexhaustible Magic: Folklore as World Building in Harry Potter](https://digitalcommons.wku.edu/cgi/viewcontent.cgi?article=2976&context=theses)  
+[Inexhaustible Magic: Folklore as World Building in Harry Potter](https://digitalcommons.wku.edu/cgi/viewcontent.cgi?article=2976&context=theses)
 
-[Harry Potter: An Archetypal Hero's Journey in Four Books](https://digitalcommons.salve.edu/cgi/viewcontent.cgi?article=1126&context=pell_theses)  
- 
-[Word Formation Processes of Neologisms in the Harry Potter Books](https://www.diva-portal.org/smash/get/diva2%3A603300/fulltext01.pdf)  
+[Harry Potter: An Archetypal Hero's Journey in Four Books](https://digitalcommons.salve.edu/cgi/viewcontent.cgi?article=1126&context=pell_theses)
 
+[Word Formation Processes of Neologisms in the Harry Potter Books](https://www.diva-portal.org/smash/get/diva2%3A603300/fulltext01.pdf)
+
+## Engenharia de Prompts e Cicatrizes
+
+Durante a construção do caderno temático no NotebookLM, foram realizados testes com diferentes formas de elaborar prompts. O objetivo foi analisar como instruções mais específicas podem melhorar a qualidade, a organização e a profundidade das respostas geradas pela IA.
+
+### Teste 1 — Casas de Hogwarts
+
+**Prompt inicial**
+
+> Explique as casas de Hogwarts.
+
+**Problema identificado**
+
+A resposta apresentou informações gerais sobre as quatro casas, mas sem uma estrutura que facilitasse a comparação entre elas.
+
+**Prompt aprimorado**
+
+> Com base apenas nas fontes fornecidas, compare as quatro casas de Hogwarts em uma tabela, apresentando suas principais características, valores, personagens associados e diferenças.
+
+**Resultado**
+
+A resposta ficou mais organizada e permitiu comparar diretamente as características de Grifinória, Sonserina, Corvinal e Lufa-Lufa.
+
+**Cicatriz**
+
+O teste demonstrou que especificar o formato esperado da resposta e os critérios de comparação torna o resultado mais útil para estudo e revisão.
+
+### Teste 2 — Análise de Personagens
+
+**Prompt inicial**
+
+> Fale sobre Harry Potter, Hermione Granger e Rony Weasley.
+
+**Problema identificado**
+
+A resposta apresentou informações relevantes, mas sem um padrão definido para analisar cada personagem.
+
+**Prompt aprimorado**
+
+> Com base nas fontes fornecidas, explique o papel de Harry Potter, Hermione Granger e Rony Weasley na história. Para cada personagem, apresente suas principais características, importância para a narrativa e relação com os outros personagens.
+
+**Resultado**
+
+A nova resposta apresentou uma estrutura semelhante para cada personagem, facilitando a comparação entre suas características e funções dentro da narrativa.
+
+**Cicatriz**
+
+Foi possível perceber que definir previamente quais aspectos devem ser analisados reduz respostas genéricas e direciona melhor a IA para o objetivo do estudo.
+
+### Teste 3 — Geração de Questões para Revisão
+
+**Prompt inicial**
+
+> Faça perguntas sobre Harry Potter.
+
+**Problema identificado**
+
+As perguntas geradas não apresentavam uma organização clara por dificuldade e algumas eram muito simples para uma revisão aprofundada.
+
+**Prompt aprimorado**
+
+> Utilizando exclusivamente as fontes fornecidas, crie um quiz com 10 questões sobre o conteúdo estudado. Divida as perguntas em 5 fáceis, 3 médias e 2 difíceis. Não apresente as respostas imediatamente. Após minhas respostas, faça a correção e explique os erros utilizando informações das fontes.
+
+**Resultado**
+
+O NotebookLM gerou uma atividade de revisão mais estruturada, com diferentes níveis de dificuldade e possibilidade de correção baseada no material utilizado no projeto.
+
+**Cicatriz**
+
+O teste mostrou que informar quantidade, nível de dificuldade, formato e comportamento esperado da IA transforma um pedido genérico em uma ferramenta mais adequada para a aprendizagem ativa.
