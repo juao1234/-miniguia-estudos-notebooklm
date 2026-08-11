@@ -107,3 +107,34 @@ Harry Potter apresenta diversas características relacionadas ao arquétipo da J
 ### Construção do Mundo
 
 O worldbuilding de Harry Potter é formado pela combinação de diferentes elementos que tornam o universo fictício mais detalhado e consistente. Além de Hogwarts, existem instituições como o Ministério da Magia, comunidades, locais, criaturas fantásticas, objetos mágicos, tradições e regras próprias. A criação de novos termos e conceitos também contribui para estabelecer uma identidade particular para esse universo. Esses elementos permitem que o mundo mágico funcione como um ambiente narrativo amplo, no qual personagens e acontecimentos estão conectados por regras e referências próprias.
+
+## Glossário
+
+**Hogwarts:** Escola de Magia e Bruxaria onde ocorre grande parte da história.
+
+**Worldbuilding:** Processo de construção de um universo fictício, incluindo suas regras, lugares, culturas e instituições.
+
+**Arquétipo:** Modelo ou padrão recorrente utilizado na construção de personagens e narrativas.
+
+**Jornada do Herói:** Estrutura narrativa na qual um personagem passa por diferentes etapas de transformação e desenvolvimento.
+
+**Neologismo:** Palavra nova criada ou adaptada dentro de uma língua.
+
+**Feitiço:** Forma de manifestação da magia utilizada pelos personagens.
+
+## Prompts Reutilizáveis
+
+### Resumo
+> Com base exclusivamente nas fontes fornecidas, faça um resumo estruturado dos principais conceitos do conteúdo. Organize a resposta por tópicos e destaque as informações essenciais.
+
+### Quiz
+> Com base nas fontes fornecidas, crie 10 questões sobre o conteúdo, divididas entre níveis fácil, médio e difícil. Não apresente o gabarito até que eu responda.
+
+### Revisão
+> Identifique os 10 conceitos mais importantes presentes nas fontes e explique cada um de maneira simples e objetiva.
+
+### Comparação
+> Compare os principais conceitos apresentados nas fontes em uma tabela, destacando características, diferenças e relações entre eles.
+
+### Simulação de prova
+> Crie uma pequena prova baseada exclusivamente nas fontes fornecidas. Após minhas respostas, corrija cada questão e explique os meus erros.
