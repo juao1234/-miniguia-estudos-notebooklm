@@ -89,3 +89,21 @@ O NotebookLM gerou uma atividade de revisão mais estruturada, com diferentes n�
 **Cicatriz**
 
 O teste mostrou que informar quantidade, nível de dificuldade, formato e comportamento esperado da IA transforma um pedido genérico em uma ferramenta mais adequada para a aprendizagem ativa.
+
+## Resumo Estruturado
+
+### As Casas de Hogwarts
+
+Hogwarts é dividida em quatro casas: Grifinória, Sonserina, Corvinal e Lufa-Lufa. Cada casa representa diferentes características e valores. A Grifinória valoriza coragem e determinação; a Sonserina está relacionada à ambição e astúcia; a Corvinal valoriza inteligência, criatividade e conhecimento; e a Lufa-Lufa destaca lealdade, dedicação e justiça. A divisão em casas também influencia as relações entre os estudantes e contribui para a construção da identidade e dos conflitos presentes na narrativa.
+
+### Sistema de Magia
+
+O universo de Harry Potter apresenta um sistema mágico composto por feitiços, poções, objetos encantados, criaturas e diferentes formas de conhecimento mágico. A utilização da magia depende do aprendizado e da prática dos bruxos, sendo Hogwarts uma das principais instituições responsáveis por esse ensino. Existem também regras e limitações que organizam o uso da magia, contribuindo para que o mundo mágico apresente uma estrutura própria e coerente dentro da narrativa.
+
+### Jornada de Harry Potter
+
+Harry Potter apresenta diversas características relacionadas ao arquétipo da Jornada do Herói. O personagem deixa sua vida comum ao descobrir a existência do mundo mágico e ingressar em Hogwarts, onde passa por desafios, conflitos e descobertas sobre sua própria identidade. Ao longo da narrativa, suas experiências, amizades e confrontos contribuem para seu amadurecimento. Dessa forma, sua trajetória pode ser analisada como um processo de transformação no qual o protagonista enfrenta obstáculos e assume responsabilidades cada vez maiores.
+
+### Construção do Mundo
+
+O worldbuilding de Harry Potter é formado pela combinação de diferentes elementos que tornam o universo fictício mais detalhado e consistente. Além de Hogwarts, existem instituições como o Ministério da Magia, comunidades, locais, criaturas fantásticas, objetos mágicos, tradições e regras próprias. A criação de novos termos e conceitos também contribui para estabelecer uma identidade particular para esse universo. Esses elementos permitem que o mundo mágico funcione como um ambiente narrativo amplo, no qual personagens e acontecimentos estão conectados por regras e referências próprias.
